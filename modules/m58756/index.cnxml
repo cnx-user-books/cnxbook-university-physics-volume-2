@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58756</md:content-id>
   <md:title>RLC Series Circuits</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Determine the angular frequency of oscillation for a resistor, inductor, capacitor <m:math><m:mrow><m:mo>(</m:mo><m:mi>R</m:mi><m:mi>L</m:mi><m:mi>C</m:mi><m:mo>)</m:mo></m:mrow></m:math> series circuit</item>
 <item>Relate the <m:math><m:mrow><m:mi>R</m:mi><m:mi>L</m:mi><m:mi>C</m:mi></m:mrow></m:math> circuit to a damped spring oscillation</item>
@@ -53,9 +53,9 @@
 <section id="fs-id1167131227727" class="key-concepts">
 <title>Summary</title>
 <list id="fs-id1167131225149" list-type="bulleted" bullet-style="bullet">
-<item>The underdamped solution for the capacitor charge in an <emphasis effect="italics">RLC</emphasis> circuit is
+<item>The underdamped solution for the capacitor charge in an <emphasis effect="italics">RLC</emphasis> circuit is<newline/>
 <equation id="fs-id1167131204578" class="unnumbered"><label/><m:math><m:mrow><m:mi>q</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msub><m:mi>q</m:mi><m:mn>0</m:mn></m:msub><m:msup><m:mi>e</m:mi><m:mrow><m:mtext>−</m:mtext><m:mi>R</m:mi><m:mi>t</m:mi><m:mtext>/</m:mtext><m:mn>2</m:mn><m:mi>L</m:mi></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>cos</m:mtext><m:mo stretchy="false">(</m:mo><m:mi>ω</m:mi><m:mtext>′</m:mtext><m:mi>t</m:mi><m:mo>+</m:mo><m:mi>ϕ</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></equation></item>
-<item>The angular frequency given in the underdamped solution for the <emphasis effect="italics">RLC</emphasis> circuit is
+<item>The angular frequency given in the underdamped solution for the <emphasis effect="italics">RLC</emphasis> circuit is<newline/>
 <equation id="fs-id1167134967794" class="unnumbered"><label/><m:math><m:mrow><m:msup><m:mi>ω</m:mi><m:mo>′</m:mo></m:msup><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>L</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac><m:mo>−</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn><m:mi>L</m:mi></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt><m:mo>.</m:mo></m:mrow></m:math></equation></item>
 </list>
 </section>
@@ -173,7 +173,7 @@
 </exercise>
 <exercise id="fs-id1167131140433">
 <problem id="fs-id1167134582582">
-<para id="fs-id1167134582584">What resistance <emphasis effect="italics">R</emphasis> must be connected in series with a 200-mH inductor and a <m:math><m:mrow><m:mn>10</m:mn><m:mi>μ</m:mi><m:mtext>F</m:mtext></m:mrow></m:math> capacitor of the resulting <emphasis effect="italics">RLC</emphasis> oscillating circuit is to decay to <m:math><m:mrow><m:mn>50</m:mn><m:mtext>%</m:mtext></m:mrow></m:math> of its initial value of charge in 50 cycles? To <m:math><m:mrow><m:mn>0.10</m:mn><m:mtext>%</m:mtext></m:mrow></m:math> of its initial value in 50 cycles?</para>
+<para id="fs-id1167134582584">What resistance <emphasis effect="italics">R</emphasis> must be connected in series with a 200-mH inductor of the resulting <emphasis effect="italics">RLC</emphasis> oscillating circuit is to decay to <m:math><m:mrow><m:mn>50</m:mn><m:mtext>%</m:mtext></m:mrow></m:math> of its initial value of charge in 50 cycles? To <m:math><m:mrow><m:mn>0.10</m:mn><m:mtext>%</m:mtext></m:mrow></m:math> of its initial value in 50 cycles?</para>
 </problem>
 </exercise>
 </section>
@@ -285,9 +285,16 @@ proof <m:math><m:mtable>
 </problem>
 <solution id="fs-id1167131225968">
 <para id="fs-id1167131282092">a. <m:math><m:mrow><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>T/s;</m:mtext></m:mrow></m:math> b. <m:math><m:mrow><m:mtext>Φ</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>a</m:mi><m:mi>I</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mtext>ln</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mi>b</m:mi></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>; c. 4.4 nA</para></solution>
+</exercise><exercise id="fs-id1167129968165">
+<problem id="fs-id1167129968167">
+<para id="fs-id1167131084448">A rectangular copper ring, of mass 100 g and resistance <m:math><m:mrow><m:mn>0.2</m:mn><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:math>, is in a region of uniform magnetic field that is perpendicular to the area enclosed by the ring and horizontal to Earth’s surface. The ring is let go from rest when it is at the edge of the nonzero magnetic field region (see below). (a) Find its speed when the ring just exits the region of uniform magnetic field. (b) If it was let go at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, what is the time when it exits the region of magnetic field for the following values: <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>cm</m:mtext><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>cm</m:mtext><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>and</m:mtext></m:mrow></m:math> <m:math><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mn>9.8</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>?</m:mo></m:mrow></m:math> Assume the magnetic field of the induced current is negligible compared to 3 T.</para>
+<media id="fs-id1167131378231" alt="Figure a shows a box with crosses in it. It is labeled t=0. An area within it is demarcated with breadth equal to a and length equal to b. Figure b shows the same box with crosses in it. It is labeled, “when ring exits”. The demarcated are from figure a is now below the box. There are two downward arrows labeled g and v.">
+<image mime-type="image/jpeg" src="../../media/CNX_UPhysics_31_06_Problem82_img.jpg"/>
+</media>
+</problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167134655841">
 <term><emphasis effect="italics">RLC</emphasis> circuit</term>

@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58416</md:content-id>
   <md:title>Calculating Electric Fields of Charge Distributions</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Explain what a continuous source charge distribution is and how it is related to the concept of quantization of charge</item>
 <item>Describe line charges, surface charges, and volume charges</item>
@@ -235,7 +235,7 @@ Systems that may be approximated as two infinite planes of this sort provide a u
 <item>two-dimensional (metal plate); uses surface charge density <m:math><m:mi>σ</m:mi></m:math></item>
 <item>three-dimensional (metal sphere); uses volume charge density <m:math><m:mi>ρ</m:mi></m:math></item>
 </list></item>
-<item>The “source charge” is a differential amount of charge <emphasis effect="italics">dq</emphasis>. Calculating <emphasis effect="italics">dq</emphasis> depends on the type of source charge distribution:
+<item>The “source charge” is a differential amount of charge <emphasis effect="italics">dq</emphasis>. Calculating <emphasis effect="italics">dq</emphasis> depends on the type of source charge distribution:<newline/>
 <equation id="fs-id1172098255925" class="unnumbered"><label/><m:math><m:mrow><m:mi>d</m:mi><m:mi>q</m:mi><m:mo>=</m:mo><m:mi>λ</m:mi><m:mi>d</m:mi><m:mi>l</m:mi><m:mo>;</m:mo><m:mspace width="0.5em"/><m:mi>d</m:mi><m:mi>q</m:mi><m:mo>=</m:mo><m:mi>σ</m:mi><m:mi>d</m:mi><m:mi>A</m:mi><m:mo>;</m:mo><m:mspace width="0.5em"/><m:mi>d</m:mi><m:mi>q</m:mi><m:mo>=</m:mo><m:mi>ρ</m:mi><m:mi>d</m:mi><m:mi>V</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation></item>
 <item>Symmetry of the charge distribution is usually key.</item>
 <item>Important special cases are the field of an “infinite” wire and the field of an “infinite” plane.</item>
@@ -441,7 +441,7 @@ This is independent of the length of the string.</para>
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1172100803638">
 <term>continuous charge distribution</term>
