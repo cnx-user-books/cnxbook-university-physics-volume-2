@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58399</md:content-id>
   <md:title>Thermodynamic Processes</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>Define a thermodynamic process</item>
 <item>Distinguish between quasi-static and non-quasi-static processes</item>
 <item>Calculate physical quantities, such as the heat transferred, work done, and internal energy change for isothermal, adiabatic, and cyclical thermodynamic processes</item>
@@ -20,7 +21,8 @@
 <title>Quasi-static and Non-quasi-static Processes</title>
 <para id="fs-id1172101769640">A <term class="no-emphasis">quasi-static process</term> refers to an idealized or imagined process where the change in state is made infinitesimally slowly so that at each instant, the system can be assumed to be at a thermodynamic equilibrium with itself and with the environment. For instance, imagine heating 1 kg of water from a temperature <m:math><m:mrow><m:mn>20</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math> to <m:math><m:mrow><m:mn>21</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math> at a constant pressure of 1 atmosphere. To heat the water very slowly, we may imagine placing the container with water in a large bath that can be slowly heated such that the temperature of the bath can rise infinitesimally slowly from <m:math><m:mrow><m:mn>20</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math> to <m:math><m:mrow><m:mn>21</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math>. If we put 1 kg of water at <m:math><m:mrow><m:mn>20</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math> directly into a bath at <m:math><m:mrow><m:mn>21</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math>, the temperature of the water will rise rapidly to <m:math><m:mrow><m:mn>21</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math> in a non-quasi-static way.</para>
 <para id="fs-id1172099887618">Quasi-static processes are done slowly enough that the system remains at thermodynamic equilibrium at each instant, despite the fact that the system changes over time. The thermodynamic equilibrium of the system is necessary for the system to have well-defined values of macroscopic properties such as the temperature and the pressure of the system at each instant of the process. Therefore, quasi-static processes can be shown as well-defined paths in state space of the system.</para>
-<para id="fs-id1172101895022">Since quasi-static processes cannot be completely realized for any finite change of the system, all processes in nature are non-quasi-static. Examples of quasi-static and <term class="no-emphasis">non-quasi-static processes</term> are shown in <link target-id="CNX_UPhysics_20_04_Quasi"/>. Despite the fact that all finite changes must occur essentially non-quasi-statically at some stage of the change, we can imagine performing infinitely many quasi-static process corresponding to every quasi-static process. Since quasi-static processes can be analyzed analytically, we mostly study quasi-static processes in this book. We have already seen that in a quasi-static process the work by a gas is given by ∫<emphasis effect="italics">pdV</emphasis>.</para><figure id="CNX_UPhysics_20_04_Quasi">
+<para id="fs-id1172101895022">Since quasi-static processes cannot be completely realized for any finite change of the system, all processes in nature are non-quasi-static. Examples of quasi-static and <term class="no-emphasis">non-quasi-static processes</term> are shown in <link target-id="CNX_UPhysics_20_04_Quasi"/>. Despite the fact that all finite changes must occur essentially non-quasi-statically at some stage of the change, we can imagine performing infinitely many quasi-static process corresponding to every quasi-static process. Since quasi-static processes can be analyzed analytically, we mostly study quasi-static processes in this book. We have already seen that in a quasi-static process the work by a gas is given by <emphasis effect="italics">pdV</emphasis>.</para>
+<figure id="CNX_UPhysics_20_04_Quasi">
 <media id="fs-id1172101882360" alt="The figure is a plot of pressure, p, on the vertical axis as a function of volume, V, on the horizontal axis. Two pressures, p f greater than p i, are marked on the vertical axis. Two volumes, V f greater than V i are marked on the horizontal axis. Two points, A at V i, p i, and B at the final V f, p i, are shown and are connected by a straight horizontal line with a rightward arrow from A to B. The line is labeled Quasi-static process. A dashed line goes up from A, curves to reach a maximum, and curves back down to B. This dashed line is labeled nonquasi-static process.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_20_04_Quasi.jpg"/>
 </media>
@@ -49,7 +51,7 @@
 </section>
 <section id="fs-id1172099496924">
 <title>Adiabatic Processes</title>
-<para id="fs-id1172097347677">In an <term>adiabatic process</term>, the system is insulated from its environment so that although the state of the system changes, no heat is allowed to enter or leave the system, as seen in <link target-id="CNX_UPhysics_20_04_Adiabat"/>. An adiabatic process can be conducted either quasi-statically or non-quasi-statically. When a system expands adiabatically, it must do work against the outside world, and therefore its energy goes down, which is reflected in the lowering of the temperature of the system. An adiabatic expansion leads to a lowering of temperature, and an adiabatic compression leads to an increase of temperature. We discuss adiabatic expansion again in <link document="m58401">Adiabatic Processes for an ideal Gas</link>.</para>
+<para id="fs-id1172097347677">In an <term>adiabatic process</term>, the system is insulated from its environment so that although the state of the system changes, no heat is allowed to enter or leave the system, as seen in <link target-id="CNX_UPhysics_20_04_Adiabat"/>. An adiabatic process can be conducted either quasi-statically or non-quasi-statically. When a system expands adiabatically, it must do work against the outside world, and therefore its energy goes down, which is reflected in the lowering of the temperature of the system. An adiabatic expansion leads to a lowering of temperature, and an adiabatic compression leads to an increase of temperature. We discuss adiabatic expansion again in <link class="target-chapter" document="m58401">Adiabatic Processes for an ideal Gas</link>.</para>
 <figure id="CNX_UPhysics_20_04_Adiabat">
 <media id="fs-id1172101698942" alt="The figure is an illustration of a container closed by a piston. The container has double walls and bottom, with the gap filled with insulation. The region inside the container, below the piston, is labeled as the system. An upward arrow indicates that the piston moves up.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_20_04_Adiabat.jpg"/>
@@ -73,7 +75,7 @@
 </list>
 <para id="fs-id1172099479520">Many other processes also occur that do not fit into any of these four categories.</para>
 <note id="fs-id1172097225572" class="media-2">
-<para id="fs-id1172101808794">View this <link url="https://openstax.org/l/21idegaspvdiag">site</link> to set up your own process in a <emphasis effect="italics">pV</emphasis> diagram. See if you can calculate the values predicted by the simulation for heat, work, and change in internal energy.</para>
+<para id="fs-id1172101808794">View this <link url="https://openstaxcollege.org/l/21idegaspvdiag">site</link> to set up your own process in a <emphasis effect="italics">pV</emphasis> diagram. See if you can calculate the values predicted by the simulation for heat, work, and change in internal energy.</para>
 </note>
 </section>
 <section id="fs-id1172099718508" class="key-concepts">
@@ -121,9 +123,11 @@
 </exercise>
 <exercise id="fs-id1172101791820">
 <problem id="fs-id1172101841976">
-<para id="fs-id1172099722952">Consider a transformation from point <emphasis effect="italics">A</emphasis> to <emphasis effect="italics">B</emphasis> in a two-step process. First, the pressure is lowered from 3 MPa at point <emphasis effect="italics">A</emphasis> to a pressure of 1 MPa, while keeping the volume at 2 L by cooling the system. The state reached is labeled <emphasis effect="italics">C</emphasis>. Then the system is heated at a constant pressure to reach a volume of 6 L in the state <emphasis effect="italics">B</emphasis>. (a) Find the amount of work done on the <emphasis effect="italics">ACB</emphasis> path. (b) Find the amount of heat exchanged by the system when it goes from <emphasis effect="italics">A</emphasis> to <emphasis effect="italics">B</emphasis> on the <emphasis effect="italics">ACB</emphasis> path. (c) Compare the change in the internal energy when the <emphasis effect="italics">AB</emphasis> process occurs isothermally with the <emphasis effect="italics">AB</emphasis> change through the two-step process on the <emphasis effect="italics">ACB</emphasis> path.</para></problem>
+<para id="fs-id1172099722952">Consider a transformation from point <emphasis effect="italics">A</emphasis> to <emphasis effect="italics">B</emphasis> in a two-step process. First, the pressure is lowered from 3 MPa at point <emphasis effect="italics">A</emphasis> to a pressure of 1 MPa, while keeping the volume at 2 L by cooling the system. The state reached is labeled <emphasis effect="italics">C</emphasis>. Then the system is heated at a constant pressure to reach a volume of 6 L in the state <emphasis effect="italics">B</emphasis>. (a) Find the amount of work done on the <emphasis effect="italics">ACB</emphasis> path. (b) Find the amount of heat exchanged by the system when it goes from <emphasis effect="italics">A</emphasis> to <emphasis effect="italics">B</emphasis> on the <emphasis effect="italics">ACB</emphasis> path. (c) Compare the change in the internal energy when the <emphasis effect="italics">AB</emphasis> process occurs adiabatically with the <emphasis effect="italics">AB</emphasis> change through the two-step process on the <emphasis effect="italics">ACB</emphasis> path.</para>
+</problem>
 <solution id="fs-id1172099484356">
-<para id="fs-id1172102107806">a. 4000 J; b. −4000 J; c. It does not depend on the process.</para></solution>
+<para id="fs-id1172102107806">a. 1660 J; b. −2730 J; c. It does not depend on the process.</para>
+</solution>
 </exercise>
 <exercise id="fs-id1172099377793">
 <problem id="fs-id1172099702171">
@@ -143,7 +147,8 @@
 </exercise>
 <exercise id="fs-id1172099525084">
 <problem id="fs-id1172099587677">
-<para id="fs-id1172099375082">Consider the processes shown below for a monatomic gas. (a) Find the work done in each of the processes AB, BC, AD, and DC. (b) Find the internal energy change in processes AB and BC. (c) Find the internal energy difference between states C and A. (d) Find the total heat added in the ADC process. (e) From the information given, can you find the heat added in process AD? Why or why not?</para><media id="fs-id1172099897697" alt="The figure is a plot of pressure, p, in atmospheres on the vertical axis as a function of volume, V, in Liters on the horizontal axis. The horizontal volume scale runs from 0 to 7 Liters, and the vertical pressure scale runs from 0 to 5 atmospheres. Four Points, A, B, C, and D are labeled. A path goes from A up to B and across to C. Another path goes from A across to D and then up to C.">
+<para id="fs-id1172099375082">Consider the processes shown below. In the processes AB and BC, 3600 J and 2400 J of heat are added to the system, respectively. (a) Find the work done in each of the processes AB, BC, AD, and DC. (b) Find the internal energy change in processes AB and BC. (c) Find the internal energy difference between states C and A. (d) Find the total heat added in the ADC process. (e) From the information give, can you find the heat added in process AD? Why or why not?</para>
+<media id="fs-id1172099897697" alt="The figure is a plot of pressure, p, in atmospheres on the vertical axis as a function of volume, V, in Liters on the horizontal axis. The horizontal volume scale runs from 0 to 7 Liters, and the vertical pressure scale runs from 0 to 5 atmospheres. Four Points, A, B, C, and D are labeled. A path goes from A up to B and across to C. Another path goes from A across to D and then up to C.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_20_03_Sami1819_img.jpg"/>
 </media>
 </problem>
@@ -162,7 +167,7 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1172101948865">
 <term>adiabatic process</term>

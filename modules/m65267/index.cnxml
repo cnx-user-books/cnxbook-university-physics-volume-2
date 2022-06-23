@@ -1,0 +1,56 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="preface">
+
+<title>Preface Thermodynamics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65267</md:content-id>
+  <md:title>Preface Thermodynamics</md:title>
+  <md:abstract/>
+  <md:uuid>15f546fc-2698-4fb1-bcdd-689ecec55ef4</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1165039088977">Welcome to <emphasis effect="italics">University Physics</emphasis>, an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost.</para>
+<section id="fs-id1165039424848">
+<title>About OpenStax</title>
+<para id="fs-id1165039367577">OpenStax is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012 and our library has since scaled to over 20 books used by hundreds of thousands of students across the globe. Our adaptive learning technology, designed to improve learning outcomes through personalized educational paths, is currently being piloted for K–12 and college. The OpenStax mission is made possible through the generous support of philanthropic foundations. Through these partnerships and with the help of additional low-cost resources from our OpenStax partners, OpenStax is breaking down the most common barriers to learning and empowering students and instructors to succeed.</para>
+</section>
+<section id="fs-id1165039394449">
+<title>About <emphasis effect="italics">University Physics</emphasis></title>
+<section id="fs-id1165039111640">
+<title>Coverage and Scope</title>
+<para id="fs-id1165039011491"><emphasis effect="bold">Unit 1: Thermodynamics</emphasis></para>
+<list id="fs-id1165039286682" list-type="bulleted" bullet-style="bullet">
+<item>Chapter 1: Temperature and Heat</item>
+<item>Chapter 2: The Kinetic Theory of Gases</item>
+<item>Chapter 3: The First Law of Thermodynamics</item>
+<item>Chapter 4: The Second Law of Thermodynamics</item>
+</list>
+</section>
+<section id="fs-id1165038961942">
+<title>Pedagogical Foundation</title>
+<para id="fs-id1165039196055">Throughout <emphasis effect="italics">University Physics</emphasis> you will find derivations of concepts that present classical ideas and techniques, as well as modern applications and methods. Most chapters start with observations or experiments that place the material in a context of physical experience. Presentations and explanations rely on years of classroom experience on the part of long-time physics professors, striving for a balance of clarity and rigor that has proven successful with their students. Throughout the text, links enable students to review earlier material and then return to the present discussion, reinforcing connections between topics. Key historical figures and experiments are discussed in the main text (rather than in boxes or sidebars), maintaining a focus on the development of physical intuition. Key ideas, definitions, and equations are highlighted in the text and listed in summary form at the end of each chapter. Examples and chapter-opening images often include contemporary applications from daily life or modern science and engineering that students can relate to, from smart phones to the internet to GPS devices.</para>
+</section>
+<section id="fs-id1165039091879">
+<title>Assessments That Reinforce Key Concepts</title>
+<para id="fs-id1165039247386">In-chapter <emphasis effect="bold">Examples</emphasis> generally follow a three-part format of Strategy, Solution, and Significance to emphasize how to approach a problem, how to work with the equations, and how to check and generalize the result. Examples are often followed by <emphasis effect="bold">Check Your Understanding</emphasis> questions and answers to help reinforce for students the important ideas of the examples. <emphasis effect="bold">Problem-Solving Strategies</emphasis> in each chapter break down methods of approaching various types of problems into steps students can follow for guidance. The book also includes exercises at the end of each chapter so students can practice what they’ve learned.</para>
+<list id="fs-id1165039044333" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Conceptual questions</emphasis> do not require calculation but test student learning of the key concepts.</item>
+<item><emphasis effect="bold">Problems</emphasis> categorized by section test student problem-solving skills and the ability to apply ideas to practical situations.</item>
+<item><emphasis effect="bold">Additional Problems</emphasis> apply knowledge across the chapter, forcing students to identify what concepts and equations are appropriate for solving given problems. Randomly located throughout the problems are <emphasis effect="bold">Unreasonable Results</emphasis> exercises that ask students to evaluate the answer to a problem and explain why it is not reasonable and what assumptions made might not be correct.</item>
+<item><emphasis effect="bold">Challenge Problems</emphasis> extend text ideas to interesting but difficult situations.</item>
+</list>
+<para id="fs-id1165038994270">Answers for selected exercises are available in an <emphasis effect="bold">Answer Key</emphasis> at the end of the book.</para>
+</section>
+</section>
+<section id="fs-id1165039187628"><title>About the Authors</title><section id="eip-484" class="sr-contrib-auth"><title>Senior Contributing Authors</title><para id="eip-677"><emphasis>Samuel J. Ling, Truman State University</emphasis><newline/>
+Dr. Samuel Ling has taught introductory and advanced physics for over 25 years at Truman State University, where he is currently Professor of Physics and the Department Chair. Dr. Ling has two PhDs from Boston University, one in Chemistry and the other in Physics, and he was a Research Fellow at the Indian Institute of Science, Bangalore, before joining Truman. Dr. Ling is also an author of <emphasis effect="italics">A First Course in Vibrations and Waves</emphasis>, published by Oxford University Press. Dr. Ling has considerable experience with research in Physics Education and has published research on collaborative learning methods in physics teaching. He was awarded a Truman Fellow and a Jepson fellow in recognition of his innovative teaching methods. Dr. Ling’s research publications have spanned Cosmology, Solid State Physics, and Nonlinear Optics.</para><para id="eip-25"><emphasis>Jeff Sanny, Loyola Marymount University</emphasis><newline/>
+Dr. Jeff Sanny earned a BS in Physics from Harvey Mudd College in 1974 and a PhD in Solid State Physics from the University of California–Los Angeles in 1980. He joined the faculty at Loyola Marymount University in the fall of 1980. During his tenure, he has served as department Chair as well as Associate Dean. Dr. Sanny enjoys teaching introductory physics in particular. He is also passionate about providing students with research experience and has directed an active undergraduate student research group in space physics for many years.</para><para id="eip-906"><emphasis>Bill Moebs, PhD</emphasis><newline/>
+Dr. William Moebs earned a BS and PhD (1959 and 1965) from the University of Michigan. He then joined their staff as a Research Associate for one year, where he continued his doctoral research in particle physics. In 1966, he accepted an appointment to the Physics Department of Indiana Purdue Fort Wayne (IPFW), where he served as Department Chair from 1971 to 1979. In 1979, he moved to Loyola Marymount University (LMU), where he served as Chair of the Physics Department from 1979 to 1986. He retired from LMU in 2000. He has published research in particle physics, chemical kinetics, cell division, atomic physics, and physics teaching.</para></section>
+
+
+
+
+
+
+</section></content>
+</document>

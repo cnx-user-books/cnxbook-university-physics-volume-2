@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58653</md:content-id>
   <md:title>Refrigerators and Heat Pumps</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe a refrigerator and a heat pump and list their differences</item>
 <item>Calculate the performance coefficients of simple refrigerators and heat pumps</item></list></md:abstract>
@@ -89,7 +89,7 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167585852490">
 <term>coefficient of performance</term>

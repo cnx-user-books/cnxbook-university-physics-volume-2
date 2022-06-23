@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58404</md:content-id>
   <md:title>Heat Engines</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe the function and components of a heat engine</item>
 <item>Explain the efficiency of an engine</item>
@@ -47,11 +47,11 @@ A lawn mower is rated to have an efficiency of <m:math><m:mrow><m:mn>25.0</m:mn>
 From the average power—that is, the rate of work production—we can figure out the work done in the given elapsed time. Then, from the efficiency given, we can figure out the minimum heat discharge <m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mtext>c</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mtext>h</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mi>e</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math> with <m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mtext>h</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mtext>c</m:mtext></m:msub><m:mo>+</m:mo><m:mi>W</m:mi><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1167586038077"><title>Solution</title></para>
 <list id="fs-id1167582455785" list-type="enumerated" number-style="lower-alpha">
-<item>The average work delivered by the lawn mower is
+<item>The average work delivered by the lawn mower is<newline/>
 <equation id="fs-id1167582859861" class="unnumbered"><label/><m:math><m:mrow><m:mi>W</m:mi><m:mo>=</m:mo><m:mi>P</m:mi><m:mtext>Δ</m:mtext><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>3.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1.00</m:mn><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mo>=</m:mo><m:mn>180</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation></item>
-<item>The minimum heat discharged into the air is given by
-<equation id="fs-id1167585843417" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mtext>c</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mtext>h</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mi>e</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>Q</m:mi><m:mtext>c</m:mtext></m:msub><m:mo>+</m:mo><m:mi>W</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mi>e</m:mi><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow></m:math></equation>
-which leads to 
+<item>The minimum heat discharged into the air is given by<newline/>
+<equation id="fs-id1167585843417" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mtext>c</m:mtext></m:msub><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mtext>h</m:mtext></m:msub><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mi>e</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>Q</m:mi><m:mtext>c</m:mtext></m:msub><m:mo>+</m:mo><m:mi>W</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>−</m:mo><m:mi>e</m:mi><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow></m:math></equation><newline/>
+which leads to<newline/>
 <equation id="fs-id1167586000635" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>Q</m:mi><m:mtext>c</m:mtext></m:msub><m:mo>=</m:mo><m:mi>W</m:mi><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mi>e</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>180</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>0.25</m:mn><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>=</m:mo><m:mn>540</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation></item>
 </list>
 <para id="fs-id1167582528366"><title>Significance</title>
@@ -93,7 +93,8 @@ As the efficiency rises, the minimum heat discharged falls. This helps our envir
 <problem id="fs-id1167585880945">
 <para id="fs-id1167585918379">It is found that an engine discharges 100.0 J while absorbing 125.0 J each cycle of operation. (a) What is the efficiency of the engine? (b) How much work does it perform per cycle?</para></problem>
 <solution id="fs-id1167586021813">
-<para id="fs-id1167582459417">a. 0.200; b. 25 J</para></solution>
+<para id="fs-id1167582459417">a. 0.556; b. 125.0 J</para>
+</solution>
 </exercise>
 <exercise id="fs-id1167585832280">
 <problem id="fs-id1167585823426">
@@ -103,7 +104,8 @@ As the efficiency rises, the minimum heat discharged falls. This helps our envir
 <problem id="fs-id1167586002388">
 <para id="fs-id1167585926010">An engine absorbs three times as much heat as it discharges. The work done by the engine per cycle is 50 J. Calculate (a) the efficiency of the engine, (b) the heat absorbed per cycle, and (c) the heat discharged per cycle.</para></problem>
 <solution id="fs-id1167585776800">
-<para id="fs-id1167585979206">a. 0.67; b. 75 J; c. 25 J</para></solution>
+<para id="fs-id1167585979206">a. 0.50; b. 100 J; c. 50 J</para>
+</solution>
 </exercise>
 <exercise id="fs-id1167585846256">
 <problem id="fs-id1167585771476">
@@ -111,7 +113,7 @@ As the efficiency rises, the minimum heat discharged falls. This helps our envir
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167586284074">
 <term>cold reservoir</term>

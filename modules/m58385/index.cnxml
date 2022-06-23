@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58385</md:content-id>
   <md:title>Thermometers and Temperature Scales</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para> 
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Describe several different types of thermometers</item>
 <item>Convert temperatures between the Celsius, Fahrenheit, and Kelvin scales</item>
@@ -85,7 +85,7 @@ To convert from <m:math><m:mrow><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mro
 <para id="fs-id1170902089688">The results depend somewhat on the choice of gas, but the less dense the gas in the bulb, the better the results for different gases agree. If the results are extrapolated to zero density, the results agree quite well, with zero pressure corresponding to a temperature of absolute zero.</para>
 <para id="fs-id1170904108602">Constant-volume gas thermometers are big and come to equilibrium slowly, so they are used mostly as standards to calibrate other thermometers.</para>
 <note id="fs-id1170903901204" class="media-2">
-<para id="fs-id1170903855586">Visit this <link url="https://openstax.org/l/21consvolgasth">site</link> to learn more about the constant-volume gas thermometer.</para>
+<para id="fs-id1170903855586">Visit this <link url="https://openstaxcollege.org/l/21consvolgasth">site</link> to learn more about the constant-volume gas thermometer.</para>
 </note>
 <section id="fs-id1170903892134" class="key-concepts">
 <title>Summary</title>
@@ -156,7 +156,7 @@ To convert from <m:math><m:mrow><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mro
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1170902247183">
 <term>absolute temperature scale</term>
