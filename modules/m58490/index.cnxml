@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58490</md:content-id>
   <md:title>Power in an AC Circuit</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of the section, you will be able to:
 <list>
 <item>Describe how average power from an ac circuit can be written in terms of peak current and voltage and of rms current and voltage</item>
 <item>Determine the relationship between the phase angle of the current and voltage and the average power, known as the power factor</item></list></md:abstract>
@@ -67,11 +67,11 @@ An ac generator whose emf is given by</para>
 The rms voltage is the amplitude of the voltage times <m:math><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:mrow></m:mrow></m:math>. The impedance of the circuit involves the resistance and the reactances of the capacitor and the inductor. The average power is calculated by <link target-id="fs-id1172102033252"/>, or more specifically, the last part of the equation, because we have the impedance of the circuit <emphasis effect="italics">Z</emphasis>, the rms voltage <m:math><m:mrow><m:msub><m:mi>V</m:mi><m:mrow><m:mtext>rms</m:mtext></m:mrow></m:msub></m:mrow></m:math>, and the resistance <emphasis effect="italics">R</emphasis>.</para>
 <para id="fs-id1172101986185"><title>Solution</title></para>
 <list id="fs-id1172101989178" list-type="enumerated" number-style="lower-alpha">
-<item>Since <m:math><m:mrow><m:msub><m:mi>V</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>4.00</m:mn><m:mspace width="0.2em"/><m:mtext>V,</m:mtext></m:mrow></m:math> the rms voltage across the generator is
+<item>Since <m:math><m:mrow><m:msub><m:mi>V</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>4.00</m:mn><m:mspace width="0.2em"/><m:mtext>V,</m:mtext></m:mrow></m:math> the rms voltage across the generator is<newline/>
 <equation id="fs-id1172101913052" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>V</m:mi><m:mrow><m:mtext>rms</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4.00</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2.83</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
-<item>The impedance of the circuit is
+<item>The impedance of the circuit is<newline/>
 <equation id="fs-id1172102015772" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>Z</m:mi></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:msqrt><m:mrow><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mi>X</m:mi><m:mi>L</m:mi></m:msub><m:mo>−</m:mo><m:msub><m:mi>X</m:mi><m:mi>C</m:mi></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mrow><m:mo>=</m:mo><m:msup><m:mrow><m:mrow><m:mo>{</m:mo><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>5.00</m:mn><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:mrow><m:mo>[</m:mo><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>rad/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>H</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>rad/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>F</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow><m:mo>]</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mo>}</m:mo></m:mrow></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mrow><m:mo>=</m:mo><m:mn>7.07</m:mn><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation></item>
-<item>From <link target-id="fs-id1172102033252"/>, the average power transferred to the circuit is 
+<item>From <link target-id="fs-id1172102033252"/>, the average power transferred to the circuit is<newline/>
 <equation id="fs-id1172101949217" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mtext>ave</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:msubsup><m:mi>V</m:mi><m:mrow><m:mtext>rms</m:mtext></m:mrow><m:mn>2</m:mn></m:msubsup><m:mi>R</m:mi></m:mrow><m:mrow><m:msup><m:mi>Z</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2.83</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>5.00</m:mn><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>7.07</m:mn><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.801</m:mn><m:mspace width="0.2em"/><m:mtext>W</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
 </list>
 <para id="fs-id1172101995786"><title>Significance</title>
@@ -181,7 +181,7 @@ If the resistance is much larger than the reactance of the capacitor or inductor
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1172102117038">
 <term>average power</term>

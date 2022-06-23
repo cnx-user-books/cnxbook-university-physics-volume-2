@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58732</md:content-id>
   <md:title>Ohm's Law</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe Ohm’s law</item>
 <item>Recognize when Ohm’s law applies and when it does not</item>
@@ -49,10 +49,10 @@ A carbon resistor at room temperature <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:m
 <para id="fs-id1172101651417">(b) First, the resistance is temperature dependent so the new resistance after the resistor has been heated can be found using <m:math><m:mrow><m:mi>R</m:mi><m:mo>=</m:mo><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mi>α</m:mi><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>. The current can be found using Ohm’s law in the form <m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mi>V</m:mi><m:mtext>/</m:mtext><m:mi>R</m:mi></m:mrow></m:math>.</para>
 <para id="fs-id1170902304688"><title>Solution</title></para>
 <list id="fs-id1172101939764" list-type="enumerated" number-style="lower-alpha">
-<item>Using Ohm’s law and solving for the resistance yields the resistance at room temperature:
+<item>Using Ohm’s law and solving for the resistance yields the resistance at room temperature:<newline/>
 <equation id="fs-id1170902287225" class="unnumbered"><label/><m:math><m:mrow><m:mi>R</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>V</m:mi><m:mi>I</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>9.00</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow><m:mrow><m:mn>3.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>A</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>3.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext><m:mspace width="0.2em"/><m:mo>=</m:mo><m:mn>3.00</m:mn><m:mspace width="0.2em"/><m:mtext>k</m:mtext><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow><m:mo>.</m:mo></m:math></equation></item>
 <item>The resistance at <m:math><m:mrow><m:mn>60</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math> can be found using <m:math><m:mrow><m:mi>R</m:mi><m:mo>=</m:mo><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mi>α</m:mi><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> where the temperature coefficient for carbon is <m:math><m:mrow><m:mi>α</m:mi><m:mo>=</m:mo><m:mn>−0.0005</m:mn></m:mrow></m:math>. <m:math><m:mrow><m:mi>R</m:mi><m:mo>=</m:mo><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mi>α</m:mi><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>3.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>−</m:mo><m:mn>0.0005</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>60</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo>−</m:mo><m:mn>20</m:mn><m:mspace width="0.2em"/><m:mtext>°</m:mtext><m:mtext>C</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2.94</m:mn><m:mspace width="0.2em"/><m:mtext>k</m:mtext><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:math>.<newline/>
-The current through the heated resistor is 
+The current through the heated resistor is<newline/>
 <equation id="fs-id1170904071855" class="unnumbered"><label/><m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>V</m:mi><m:mi>R</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>9.00</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow><m:mrow><m:mn>2.94</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext><m:mspace width="0.2em"/></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>3.06</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup><m:mtext>A</m:mtext><m:mo>=</m:mo><m:mn>3.06</m:mn><m:mspace width="0.2em"/><m:mtext>mA</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation></item>
 </list>
 <para id="fs-id1170902257173"><title>Significance</title>
@@ -100,7 +100,7 @@ A change in temperature of <m:math><m:mrow><m:mn>40</m:mn><m:mspace width="0.2em
 <title>Conceptual Questions</title>
 <exercise id="fs-id1170902270318">
 <problem id="fs-id1170902222075">
-<para id="fs-id1170902246452">In <link document="m58433">Determining Field from Potential</link>, resistance was defined as <m:math><m:mrow><m:mi>R</m:mi><m:mo>≡</m:mo><m:mfrac><m:mi>V</m:mi><m:mi>I</m:mi></m:mfrac></m:mrow></m:math>. In this section, we presented Ohm’s law, which is commonly expressed as <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>I</m:mi><m:mi>R</m:mi></m:mrow></m:math>. The equations look exactly alike. What is the difference between Ohm’s law and the definition of resistance?</para>
+<para id="fs-id1170902246452">In <link class="target-chapter" document="m58433">Determining Field from Potential</link>, resistance was defined as <m:math><m:mrow><m:mi>R</m:mi><m:mo>≡</m:mo><m:mfrac><m:mi>V</m:mi><m:mi>I</m:mi></m:mfrac></m:mrow></m:math>. In this section, we presented Ohm’s law, which is commonly expressed as <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>I</m:mi><m:mi>R</m:mi></m:mrow></m:math>. The equations look exactly alike. What is the difference between Ohm’s law and the definition of resistance?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1170904037552">
@@ -208,7 +208,7 @@ A change in temperature of <m:math><m:mrow><m:mn>40</m:mn><m:mspace width="0.2em
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1170902131900">
 <term>diode</term>

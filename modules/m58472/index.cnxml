@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58472</md:content-id>
   <md:title>Faraday’s Law</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Determine the magnetic flux through a surface, knowing the strength of the magnetic field, the surface area, and the angle between the normal to the surface and the magnetic field</item>
 <item>Use Faraday’s law to determine the magnitude of induced emf in a closed loop due to changing magnetic flux through the loop</item>
@@ -71,11 +71,11 @@ The square coil of <link target-id="CNX_UPhysics_30_01_Wire"/> has sides <m:math
 The area vector, or <m:math><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>n</m:mi><m:mo>^</m:mo></m:mover></m:mstyle></m:math> direction, is perpendicular to area covering the loop. We will choose this to be pointing downward so that <m:math><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:math> is parallel to <m:math><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>n</m:mi><m:mo>^</m:mo></m:mover></m:mstyle></m:math> and that the flux turns into multiplication of magnetic field times area. The area of the loop is not changing in time, so it can be factored out of the time derivative, leaving the magnetic field as the only quantity varying in time. Lastly, we can apply Ohm’s law once we know the induced emf to find the current in the loop.</para>
 <para id="fs-id1171241092551"><title>Solution</title></para>
 <list id="fs-id1171240994354" list-type="enumerated" number-style="lower-alpha">
-<item>The flux through one turn is
-<equation id="fs-id1171241201226" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mtext>Φ</m:mtext><m:mtext>m</m:mtext></m:msub><m:mo>=</m:mo><m:mi>B</m:mi><m:mi>A</m:mi><m:mo>=</m:mo><m:mi>B</m:mi><m:msup><m:mi>l</m:mi><m:mn>2</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math></equation>
-so we can calculate the magnitude of the emf from Faraday’s law. The sign of the emf will be discussed in the next section, on Lenz’s law:
+<item>The flux through one turn is<newline/>
+<equation id="fs-id1171241201226" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mtext>Φ</m:mtext><m:mtext>m</m:mtext></m:msub><m:mo>=</m:mo><m:mi>B</m:mi><m:mi>A</m:mi><m:mo>=</m:mo><m:mi>B</m:mi><m:msup><m:mi>l</m:mi><m:mn>2</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math></equation><newline/>
+so we can calculate the magnitude of the emf from Faraday’s law. The sign of the emf will be discussed in the next section, on Lenz’s law:<newline/>
 <equation id="fs-id1171241114112" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mo>|</m:mo><m:mi>ε</m:mi><m:mo>|</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mtext>−</m:mtext><m:mi>N</m:mi><m:mfrac><m:mrow><m:mi>d</m:mi><m:msub><m:mtext>Φ</m:mtext><m:mtext>m</m:mtext></m:msub></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>=</m:mo><m:mi>N</m:mi><m:msup><m:mi>l</m:mi><m:mn>2</m:mn></m:msup><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>200</m:mn><m:mo stretchy="false">)</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0.25</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mn>0.040</m:mn><m:mspace width="0.2em"/><m:mtext>T/s</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0.50</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext><m:mtext>.</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation></item>
-<item>The magnitude of the current induced in the coil is
+<item>The magnitude of the current induced in the coil is<newline/>
 <equation id="fs-id1171241158470" class="unnumbered"><label/><m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>ε</m:mi><m:mi>R</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>0.50</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow><m:mrow><m:mn>5.0</m:mn><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.10</m:mn><m:mspace width="0.2em"/><m:mtext>A</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
 </list>
 <para id="fs-id1171241122795"><title>Significance</title>
@@ -84,7 +84,7 @@ If the area of the loop were changing in time, we would not be able to pull it o
 <note id="fs-id1171241241645" class="check-understanding">
 <exercise id="fs-id1171240969671">
 <problem id="fs-id1171240984994">
-<para id="fs-id1171241057880"><emphasis effect="bold">Check Your Understanding</emphasis> A closely wound coil has a radius of 4.0 cm, 50 turns, and a total resistance of <m:math><m:mrow><m:mn>40</m:mn><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:math>. At what rate must a magnetic field perpendicular to the face of the coil change in order to produce heating in the coil at a rate of 2.0 mW?</para>
+<para id="fs-id1171241057880"><emphasis effect="bold">Check Your Understanding</emphasis> A closely wound coil has a radius of 4.0 cm, 50 turns, and a total resistance of <m:math><m:mrow><m:mn>40</m:mn><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:math>. At what rate must a magnetic field perpendicular to the face of the coil change in order to produce Joule heating in the coil at a rate of 2.0 mW?</para>
 </problem>
 <solution id="fs-id1171241153595">
 <para id="fs-id1171241258119">1.1 T/s</para>
@@ -242,7 +242,7 @@ If the area of the loop were changing in time, we would not be able to pull it o
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1171241204212">
 <term>Faraday’s law</term>

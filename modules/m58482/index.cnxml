@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58482</md:content-id>
   <md:title>Applications of Electromagnetic Induction</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
 <item>Explain how computer hard drives and graphic tablets operate using magnetic induction</item>
 <item>Explain how hybrid/electric vehicles and transcranial magnetic stimulation use magnetic induction to their advantage</item>
 </list></md:abstract>
@@ -287,7 +288,7 @@ e. no, because there is no cylindrical symmetry</para>
 </exercise>
 <exercise id="fs-id1171242540848">
 <problem id="fs-id1171242540850">
-<para id="fs-id1171242413011">A rectangular copper loop of mass 100 g and resistance <m:math><m:mrow><m:mn>0</m:mn><m:mtext>.2</m:mtext><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:math> is in a region of uniform magnetic field that is perpendicular to the area enclosed by the ring and horizontal to Earth’s surface (see below). The loop is let go from rest when it is at the edge of the nonzero magnetic field region. (a) Find an expression for the speed when the loop just exits the region of uniform magnetic field. (b) If it was let go at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, what is the time when it exits the region of magnetic field for the following values: <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>cm,</m:mtext><m:mspace width="0.2em"/><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>cm,</m:mtext><m:mspace width="0.2em"/><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext></m:mrow></m:math>, <m:math><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mn>9.8</m:mn><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math>?</para>
+<para id="fs-id1171242413011">A rectangular copper loop of mass 100 g and resistance <m:math><m:mrow><m:mn>0</m:mn><m:mtext>.2</m:mtext><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:math> is in a region of uniform magnetic field that is perpendicular to the area enclosed by the ring and horizontal to Earth’s surface (see below). The loop is let go from rest when it is at the edge of the nonzero magnetic field region. (a) Find an expression for the speed when the loop just exits the region of uniform magnetic field. (b) If it was let go at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, what is the time when it exits the region of magnetic field for the following values: <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>cm,</m:mtext><m:mspace width="0.2em"/><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>cm,</m:mtext><m:mspace width="0.2em"/><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext></m:mrow></m:math>, <m:math><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mn>9.8</m:mn><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math>? Assume that the magnetic field of the induced current is negligible compared to 3 T.</para>
 <media id="fs-id1171242438355" alt="Figure A shows rectangular loop with the sides a and b in a region of uniform magnetic field that is perpendicular to the area enclosed by the loop and horizontal to Earth’s surface. Figure B shows rectangular loop that due to the force of gravity left a region of uniform magnetic field.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_30_60pr_img.jpg"/>
 </media>
@@ -305,10 +306,10 @@ e. no, because there is no cylindrical symmetry</para>
 </solution>
 </exercise>
 <exercise id="fs-id1171242163823"><problem id="fs-id1171242163825">
-<para id="fs-id1171242420219">A time-dependent uniform magnetic field of magnitude <emphasis effect="italics">B</emphasis>(<emphasis effect="italics">t</emphasis>) is confined in a cylindrical region of radius <emphasis effect="italics">R</emphasis>. A conducting rod of length 2<emphasis effect="italics">D</emphasis> is placed in the region, as shown below. Show that the emf between the ends of the rod is given by <m:math><m:mrow><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mi>D</m:mi><m:msqrt><m:mrow><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>D</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math>. (<emphasis effect="italics">Hint:</emphasis> To find the emf between the ends, we need to integrate the electric field from one end to the other. To find the electric field, use Faraday’s law as “Ampère’s law for <emphasis effect="italics">E</emphasis>.”)</para> <media id="fs-id1171242238355" alt="A cylindrical region has a time varying magnetic field pointing out of the page through the end caps of the cylinder. A rod of length 2D fits along the walls of the cylinder and touches the walls at points P1 and P2.">
+<para id="fs-id1171242420219">A time-dependent uniform magnetic field of magnitude <emphasis effect="italics">B</emphasis>(<emphasis effect="italics">t</emphasis>) is confined in a cylindrical region of radius <emphasis effect="italics">R</emphasis>. A conducting rod of length 2<emphasis effect="italics">D</emphasis> is placed in the region, as shown below. Show that the emf between the ends of the rod is given by <m:math><m:mrow><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mi>D</m:mi><m:msqrt><m:mrow><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>D</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math>. (<emphasis effect="italics">Hint:</emphasis> To find the emf between the ends, we need to integrate the electric field from one end to the other. To find the electric field, use Faraday’s law as “Ampère’s law for <emphasis effect="italics">E</emphasis>.”)</para> <media id="fs-id1171242238355" alt="">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_30_62pr_img_new.jpg"/>
 </media>
 </problem>
 </exercise></section>
- </content>
+</content>
 </document>

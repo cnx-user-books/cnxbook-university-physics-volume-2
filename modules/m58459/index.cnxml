@@ -17,5 +17,5 @@
 <para id="fs-id1171357978033">In the preceding chapter, we saw that a moving charged particle produces a magnetic field. This connection between electricity and magnetism is exploited in electromagnetic devices, such as a computer hard drive. In fact, it is the underlying principle behind most of the technology in modern society, including telephones, television, computers, and the internet.</para>
 <para id="fs-id1171361379977">In this chapter, we examine how magnetic fields are created by arbitrary distributions of electric current, using the Biot-Savart law. Then we look at how current-carrying wires create magnetic fields and deduce the forces that arise between two current-carrying wires due to these magnetic fields. We also study the torques produced by the magnetic fields of current loops. We then generalize these results to an important law of electromagnetism, called Ampère’s law.</para>
 <para id="fs-id1171361620894">We examine some devices that produce magnetic fields from currents in geometries based on loops, known as solenoids and toroids. Finally, we look at how materials behave in magnetic fields and categorize materials based on their responses to magnetic fields.</para>
- </content>
+</content>
 </document>

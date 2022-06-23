@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58729</md:content-id>
   <md:title>Electrical Current</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe an electrical current</item>
 <item>Define the unit of electrical current</item>
@@ -70,7 +70,7 @@ The derivative can be found using <m:math><m:mrow><m:mfrac><m:mi>d</m:mi><m:mrow
 <caption>A graph of the current flowing through the wire over time.</caption>
 </figure>
 <para id="fs-id1170903132277"><title>Significance</title>
-The current through the wire in question decreases exponentially, as shown in <link target-id="CNX_UPhysics_26_01_Ex01_02b"/>. In later chapters, it will be shown that a time-dependent current appears when a capacitor charges or discharges through a resistor. Recall that a capacitor is a device that stores charge. You will learn about the resistor in <link document="m58730">Model of Conduction in Metals</link>.</para>
+The current through the wire in question decreases exponentially, as shown in <link target-id="CNX_UPhysics_26_01_Ex01_02b"/>. In later chapters, it will be shown that a time-dependent current appears when a capacitor charges or discharges through a resistor. Recall that a capacitor is a device that stores charge. You will learn about the resistor in <link class="target-chapter" document="m58730">Model of Conduction in Metals</link>.</para>
 </example>
 <note id="fs-id1170902958475" class="check-understanding">
 <exercise id="fs-id1170901485537">
@@ -201,7 +201,7 @@ no. of electrons = <m:math><m:mrow><m:mn>7.5</m:mn><m:mspace width="0.2em"/><m:m
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1170902623830">
 <term>ampere (amp)</term>

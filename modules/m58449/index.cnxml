@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58449</md:content-id>
   <md:title>Capacitors in Series and in Parallel</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Explain how to determine the equivalent capacitance of capacitors in series and in parallel combinations</item>
 <item>Compute the potential difference across the plates and the charge on the plates for a capacitor in a network and determine the net capacitance of a network of capacitors</item>
@@ -239,7 +239,7 @@ c. <m:math><m:mrow><m:mi>C</m:mi><m:mo>=</m:mo><m:mn>2.3</m:mn><m:mspace width="
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167134926180">
 <term>parallel combination</term>

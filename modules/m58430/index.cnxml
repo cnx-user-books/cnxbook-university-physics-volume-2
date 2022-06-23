@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58430</md:content-id>
   <md:title>Electric Potential and Potential Difference</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
 <item>Define electric potential, voltage, and potential difference</item>
 <item>Define the electron-volt</item>
 <item>Calculate electric potential and potential difference from potential energy and electric field</item>
@@ -83,7 +84,8 @@ This is a very large number. It is no wonder that we do not ordinarily observe i
 <note id="fs-id1167584730667" class="check-understanding">
 <exercise id="fs-id1167584706622">
 <problem id="fs-id1167585021194">
-<para id="fs-id1167584775687"><emphasis effect="bold">Check Your Understanding</emphasis> How many electrons would go through a 24.0-W lamp each second from a 12-volt car battery?</para></problem>
+<para id="fs-id1167584775687"><emphasis effect="bold">Check Your Understanding</emphasis> How many electrons would go through a 24.0-W lamp?</para>
+</problem>
 <solution id="fs-id1167584863087">
 <para id="fs-id1167584740618">–2.00 C, <m:math><m:mrow><m:msub><m:mi>n</m:mi><m:mi>e</m:mi></m:msub><m:mo>=</m:mo><m:mn>1.25</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>electrons</m:mtext></m:mrow></m:math></para>
 </solution>
@@ -130,7 +132,7 @@ Conservation of energy states that</para>
 <para id="fs-id1167585038709">Entering values for <emphasis effect="italics">q</emphasis>, <emphasis effect="italics">V</emphasis>, and <emphasis effect="italics">m</emphasis> gives</para>
 <equation id="fs-id1167585157404" class="unnumbered"><label/><m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−1.60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>C</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mtext>J/C</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>9.11</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−31</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>kg</m:mtext></m:mrow></m:mfrac></m:mrow></m:msqrt><m:mo>=</m:mo><m:mn>5.93</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>6</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation>
 <para id="fs-id1167585039811"><title>Significance</title>
-Note that both the charge and the initial voltage are negative, as in <link target-id="CNX_UPhysics_24_02_ElecGun"/>. From the discussion of electric charge and electric field, we know that electrostatic forces on small particles are generally very large compared with the gravitational force. The large final speed confirms that the gravitational force is indeed negligible here. The large speed also indicates how easy it is to accelerate electrons with small voltages because of their very small mass. Voltages much higher than the 100 V in this problem are typically used in electron guns. These higher voltages produce electron speeds so great that effects from special relativity must be taken into account and hence are reserved for a later chapter (<link document="m58555">Relativity</link>). That is why we consider a low voltage (accurately) in this example.</para>
+Note that both the charge and the initial voltage are negative, as in <link target-id="CNX_UPhysics_24_02_ElecGun"/>. From the discussion of electric charge and electric field, we know that electrostatic forces on small particles are generally very large compared with the gravitational force. The large final speed confirms that the gravitational force is indeed negligible here. The large speed also indicates how easy it is to accelerate electrons with small voltages because of their very small mass. Voltages much higher than the 100 V in this problem are typically used in electron guns. These higher voltages produce electron speeds so great that effects from special relativity must be taken into account and hence are reserved for a later chapter (<link class="target-chapter" document="m58555">Relativity</link>). That is why we consider a low voltage (accurately) in this example.</para>
 </example>
 <note id="fs-id1167584756207" class="check-understanding">
 <exercise id="fs-id1167584756210">
@@ -230,13 +232,13 @@ An electron gun (<link target-id="CNX_UPhysics_24_02_ElecGun"/>) has parallel pl
 Since the voltage and plate separation are given, the electric field strength can be calculated directly from the expression <m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>V</m:mi><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:msub></m:mrow><m:mi>d</m:mi></m:mfrac></m:mrow></m:math>. Once we know the electric field strength, we can find the force on a charge by using <m:math><m:mrow><m:mover accent="true"><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext>F</m:mtext></m:mstyle><m:mo stretchy="true">→</m:mo></m:mover><m:mo>=</m:mo><m:mi>q</m:mi><m:mover accent="true"><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext>E</m:mtext></m:mstyle><m:mo stretchy="true">→</m:mo></m:mover><m:mo>.</m:mo></m:mrow></m:math> Since the electric field is in only one direction, we can write this equation in terms of the magnitudes, <m:math><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mi>q</m:mi><m:mi>E</m:mi></m:mrow></m:math>.</para>
 <para id="fs-id1167585156988"><title>Solution</title></para>
 <list id="fs-id1167585180352" list-type="enumerated" number-style="lower-alpha">
-<item>The expression for the magnitude of the electric field between two uniform metal plates is
-<equation id="fs-id1167585172075" class="unnumbered"><label/><m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>V</m:mi><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:msub></m:mrow><m:mi>d</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
-Since the electron is a single charge and is given 25.0 keV of energy, the potential difference must be 25.0 kV. Entering this value for <m:math><m:mrow><m:msub><m:mi>V</m:mi><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:msub></m:mrow></m:math> and the plate separation of 0.0400 m, we obtain
+<item>The expression for the magnitude of the electric field between two uniform metal plates is<newline/>
+<equation id="fs-id1167585172075" class="unnumbered"><label/><m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>V</m:mi><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:msub></m:mrow><m:mi>d</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+Since the electron is a single charge and is given 25.0 keV of energy, the potential difference must be 25.0 kV. Entering this value for <m:math><m:mrow><m:msub><m:mi>V</m:mi><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:msub></m:mrow></m:math> and the plate separation of 0.0400 m, we obtain<newline/>
 <equation id="fs-id1167585176133" class="unnumbered"><label/><m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>25.0</m:mn><m:mspace width="0.2em"/><m:mtext>kV</m:mtext></m:mrow><m:mrow><m:mn>0.0400</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>6.25</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>V/m</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
-<item>The magnitude of the force on a charge in an electric field is obtained from the equation
-<equation id="fs-id1167584748620" class="unnumbered"><label/><m:math><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mi>q</m:mi><m:mi>E</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation>
-Substituting known values gives 
+<item>The magnitude of the force on a charge in an electric field is obtained from the equation<newline/>
+<equation id="fs-id1167584748620" class="unnumbered"><label/><m:math><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mi>q</m:mi><m:mi>E</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+Substituting known values gives<newline/>
 <equation id="fs-id1167585036962" class="unnumbered"><label/><m:math><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.500</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>C</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6.25</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>V/m</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>0.313</m:mn><m:mspace width="0.2em"/><m:mtext>N</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
 </list>
 <para id="fs-id1167585039827"><title>Significance</title>
@@ -272,7 +274,7 @@ We have demonstrated the use of the integral form of the potential difference to
 </note>
 <para id="fs-id1167585002047">Before presenting problems involving electrostatics, we suggest a problem-solving strategy to follow for this topic.</para>
 <note id="fs-id1167585002051" class="problem-solving">
-<title>Electrostatics</title>
+<title>Problem-Solving Strategy: Electrostatics</title>
 <list id="fs-id1167585002058" list-type="enumerated" number-style="arabic">
 <item>Examine the situation to determine if static electricity is involved; this may concern separated stationary charges, the forces among them, and the electric fields they create.</item>
 <item>Identify the system of interest. This includes noting the number, locations, and types of charges involved.</item>
@@ -285,15 +287,15 @@ We have demonstrated the use of the integral form of the potential difference to
 </section>
 <section id="fs-id1167584999297" class="key-concepts">
 <title>Summary</title>
-<list id="fs-id1167584999304" list-type="bulleted" bullet-style="bullet"><item>Electric potential is potential energy per unit charge.</item>
+<list id="fs-id1167584999304" list-type="bulleted" bullet-style="bullet">
+<item>Electric potential is potential energy per unit charge.</item>
 <item>The potential difference between points <emphasis effect="italics">A</emphasis> and <emphasis effect="italics">B</emphasis>, <m:math><m:mrow><m:msub><m:mi>V</m:mi><m:mi>B</m:mi></m:msub><m:mo>−</m:mo><m:msub><m:mi>V</m:mi><m:mi>A</m:mi></m:msub><m:mo>,</m:mo></m:mrow></m:math> that is, the change in potential of a charge <emphasis effect="italics">q</emphasis> moved from <emphasis effect="italics">A</emphasis> to <emphasis effect="italics">B</emphasis>, is equal to the change in potential energy divided by the charge.</item>
 <item>Potential difference is commonly called voltage, represented by the symbol <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>V</m:mi></m:mrow></m:math>:<newline/>
 <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>V</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mi>U</m:mi></m:mrow><m:mi>q</m:mi></m:mfrac><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mtext>Δ</m:mtext><m:mi>U</m:mi><m:mo>=</m:mo><m:mi>q</m:mi><m:mtext>Δ</m:mtext><m:mi>V</m:mi><m:mo>.</m:mo></m:mrow></m:math></item>
 <item>An electron-volt is the energy given to a fundamental charge accelerated through a potential difference of 1 V. In equation form,<newline/>
-<m:math><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>eV</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>C</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math><newline/><m:math><m:mrow>
-
-<m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mspace width="0.2em"/><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>C</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>J/C</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1.60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></item>
-</list></section>
+<m:math><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>eV</m:mtext><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>C</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mspace width="0.2em"/><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>C</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>J/C</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1.60</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−19</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></item>
+</list>
+</section>
 <section id="fs-id1167583509011" class="review-conceptual-questions">
 <title>Conceptual Questions</title>
 <exercise id="fs-id1167583509018">
@@ -438,7 +440,7 @@ b. <m:math><m:mrow><m:mi>d</m:mi><m:mo>=</m:mo><m:mn>25.0</m:mn><m:mspace width=
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167583516017">
 <term>electric potential</term>

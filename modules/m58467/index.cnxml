@@ -3,7 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58467</md:content-id>
   <md:title>Magnetism in Matter</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
 <item>Classify magnetic materials as paramagnetic, diamagnetic, or ferromagnetic, based on their response to a magnetic field</item>
 <item>Sketch how magnetic dipoles align with the magnetic field in each type of substance</item>
 <item>Define hysteresis and magnetic susceptibility, which determines the type of magnetic material</item>
@@ -209,10 +210,10 @@ A long coil is tightly wound around an iron cylinder whose magnetization curve i
 (a) The magnetic field of a solenoid is calculated using <link document="m58466" target-id="fs-id1166167134612"/>. (b) The graph is read to determine the net magnetic field for this same current. (c) The magnetic susceptibility is calculated using <link target-id="fs-id1166168125628"/>.</para>
 <para id="fs-id1168329196390"><title>Solution</title></para>
 <list id="fs-id1171361186280" list-type="enumerated" number-style="lower-alpha">
-<item>The applied field <m:math><m:mrow><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> of the coil is
+<item>The applied field <m:math><m:mrow><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> of the coil is<newline/>
 <equation id="fs-id1168329434783" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>n</m:mi><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mi>π</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup><m:mtext>T</m:mtext><m:mo>·</m:mo><m:mtext>m/A</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2000</m:mn><m:mspace width="0.1em"/><m:mtext>/</m:mtext><m:mspace width="0.1em"/><m:mtext>m</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.20</m:mn><m:mspace width="0.2em"/><m:mtext>A</m:mtext><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>5.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mtext>T</m:mtext><m:mo>.</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation></item>
 <item>From inspection of the magnetization curve of <link target-id="CNX_UPhysics_29_07_Biron"/>, we see that, for this value of <m:math><m:mrow><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Notice that the internal field of the aligned atoms is much larger than the externally applied field.</item>
-<item>The magnetic susceptibility is calculated to be 
+<item>The magnetic susceptibility is calculated to be<newline/>
 <equation id="fs-id1166168617199" class="unnumbered"><label/><m:math><m:mrow><m:mi>χ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>B</m:mi><m:mrow><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext></m:mrow><m:mrow><m:mn>5.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mtext>T</m:mtext></m:mrow></m:mfrac><m:mtext>−1</m:mtext><m:mo>=</m:mo><m:mn>2.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></equation>
 </item>
 </list>
@@ -539,7 +540,7 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 </problem>
 </exercise>
 <exercise id="fs-id1166164826688"><problem id="fs-id1166164826690">
-<para id="fs-id1166164826693">Magnetic field inside a torus. Consider a torus of rectangular cross-section with inner radius <emphasis effect="italics">a</emphasis> and outer radius <emphasis effect="italics">b</emphasis>. <emphasis effect="italics">N</emphasis> turns of an insulated thin wire are wound evenly on the torus tightly all around the torus and connected to a battery producing a steady current <emphasis effect="italics">I</emphasis> in the wire. Assume that the current on the top and bottom surfaces in the figure is radial, and the current on the inner and outer radii surfaces is vertical. Find the magnetic field inside the torus as a function of radial distance <emphasis effect="italics">r</emphasis> from the axis.</para> <media id="fs-id1262164776985" alt="Figure shows a torus or donut-like shape with an inner radius of 'a' and outer radius of 'b'. Insulated wire of 'N' turns are wound evenly around the torus and connected to a battery (not shown).">
+<para id="fs-id1166164826693">Magnetic field inside a torus. Consider a torus of rectangular cross-section with inner radius <emphasis effect="italics">a</emphasis> and outer radius <emphasis effect="italics">b</emphasis>. <emphasis effect="italics">N</emphasis> turns of an insulated thin wire are wound evenly on the torus tightly all around the torus and connected to a battery producing a steady current <emphasis effect="italics">I</emphasis> in the wire. Assume that the current on the top and bottom surfaces in the figure is radial, and the current on the inner and outer radii surfaces is vertical. Find the magnetic field inside the torus as a function of radial distance <emphasis effect="italics">r</emphasis> from the axis.</para> <media id="fs-id1262164776985" alt="">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_29_08_Pr75_img.jpg"/>
 </media>
 </problem>
@@ -584,7 +585,7 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1166164819496">
 <term>diamagnetic materials</term>
